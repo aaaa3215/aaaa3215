@@ -7,4 +7,6 @@ int main(){
     cout << "branch1" << endl;
 
     cout << "fuck" << endl;
+
+    cout << "add" << endl;
 }
