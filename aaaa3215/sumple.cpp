@@ -3,4 +3,5 @@ using namespace std;
 
 int main(){
     cout << "master changed" << endl;
+    printf("Hello Japan!");
 }
